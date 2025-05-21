@@ -1,0 +1,4 @@
+Name, Math, Physics, Chemistry
+John,78,85,90
+Alice,92,88,84
+Bob,60,72,68
